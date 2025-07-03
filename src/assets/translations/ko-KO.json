@@ -1,5 +1,5 @@
 {
-  "APP_NAME": "SurePay LMS",
+  "APP_NAME": "Max Financial Services",
   "Logged in as": "다음 계정으로 로그인됨",
   "Remember me": "날 기억해",
   "errors": {
@@ -2640,7 +2640,7 @@
       "Manual journal entry transactions recorded in a journal": "분개장에 기록된 수동 분개 거래",
       "Mifos Initiative": "미포스 이니셔티브",
       "Mifos X data-tables allow the user to add custom fields": "Mifos X 데이터 테이블을 사용하면 사용자는 클라이언트 프로필, 대출/저축 계좌, 그룹, 센터 또는 사무실에 기본 제공 필드 외에 사용자 정의 필드를 추가할 수 있습니다.",
-      "Migrate Opening Balances": "개방 잔액을 마이그레이션합니다",
+      "Migrate Opening Balances": "개장 잔액을 마이그레이션합니다",
       "Modify Loans Account": "대출 계정 수정",
       "N/A": "해당 없음",
       "Navigate system selecting entity": "이를 통해 사용자는 시스템 선택 엔터티를 빠르게 탐색할 수 있으며 검색은 탐색을 더욱 강력하게 만듭니다.",
